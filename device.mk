@@ -37,7 +37,3 @@ PRODUCT_SOONG_NAMESPACES += $(DEVICE_PATH)
 # Two-pane layout in Settings
 PRODUCT_PACKAGES += \
     androidx.window.extensions
-
-# FlipFlap
-PRODUCT_PACKAGES += \
-    FlipFlap
